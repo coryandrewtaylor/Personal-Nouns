@@ -2,6 +2,9 @@
 This project is a list of personal nouns assembled from the 1890 Webster's Unabridged Dictionary, along with the
 Python code that I used to prepare it.
 
+### What's a "personal noun"?
+A "personal noun" is a less clunky--if nonstandard--term for a common noun that refers to a person or a group of people. 
+
 ### Why a list of nouns?
 I assembled this list in order to help produce accurate social networks of minor literary characters in Greco-Roman 
 biography, as the current state of the art is only really reliable for detecting major characters in books that short.
