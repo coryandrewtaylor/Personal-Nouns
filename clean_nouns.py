@@ -3,7 +3,8 @@
 Remove nouns with untranslated Unicode characters.
 Clean out single and double quotes from the entries.
 Filter out adjectives, adverbs, and abstract and scientific nouns 
-based on endings.
+based on endings and part-of-speech tagging.
+Normalize the capitalization. Deduplicate and alphabetize the list.
 """
 from nltk.corpus import wordnet as wn
 import re
