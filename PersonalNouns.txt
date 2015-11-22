@@ -498,7 +498,6 @@ coiner
 collector
 colonizer
 colorist
-coma
 combatant
 comber
 comer
@@ -603,9 +602,7 @@ congress
 congressman
 congruent
 conics
-conidium
 conifer
-conium
 conjecture
 conjoint
 conjunct
@@ -704,7 +701,6 @@ controller
 controversialist
 controvert
 contuse
-conundrum
 convalesce
 convalescent
 convener
@@ -785,7 +781,6 @@ core
 corer
 coriander
 corinth
-corium
 cork
 corkscrew
 corm
@@ -824,7 +819,6 @@ correspond
 correspondent
 corridor
 corrie
-corrigendum
 corroborant
 corrode
 corrupt
@@ -836,7 +830,6 @@ corset
 corslet
 cortes
 cortex
-corundum
 coruscant
 corvee
 corvette
@@ -978,7 +971,6 @@ crampon
 crampoons
 cranch
 craniologist
-cranium
 crank
 crape
 crappie
@@ -1001,7 +993,6 @@ cream
 crease
 creature
 creche
-credendum
 credit
 creditor
 credo
@@ -1198,7 +1189,6 @@ cur
 curassow
 curator
 curb
-curcuma
 curd
 curdle
 cure
@@ -1212,7 +1202,6 @@ curling
 curmudgeon
 currant
 current
-curriculum
 currier
 currycomb
 curse
@@ -1256,15 +1245,12 @@ cycling
 cyclist
 cyclopean
 cyclops
-cyclorama
 cyclostomata
 cyclostyle
 cyder
 cygnet
 cygnus
 cylinder
-cyma
-cymatium
 cymbalist
 cyme
 cymling
@@ -1277,7 +1263,6 @@ cypres
 cypress
 cyprinodont
 cypriot
-cypripedium
 cyprus
 cyst
 cystocele
@@ -1784,7 +1769,6 @@ haulm
 hauls
 haunch
 haunt
-haustorium
 hauteur
 havana
 have
@@ -1888,14 +1872,12 @@ hejira
 held
 helena
 heliac
-helichrysum
 helicon
 heliograph
 heliogravure
 heliotrope
 heliotype
 heliozoa
-helium
 helix
 hell
 hellbender
@@ -1916,7 +1898,6 @@ helve
 hem
 hematite
 hematocele
-hematoma
 hemerocallis
 hemicycle
 hemimetabola
@@ -1945,7 +1926,6 @@ heptagon
 herald
 herb
 herbalist
-herbarium
 herbivore
 herculean
 hercules
@@ -2021,7 +2001,6 @@ hillock
 hillside
 hilltop
 hilt
-hilum
 hilus
 himalayan
 hind
@@ -2101,7 +2080,6 @@ hollo
 holloa
 hollow
 hollyhock
-holmium
 holocaust
 holocephali
 holograph
@@ -2134,9 +2112,7 @@ honeysucker
 honeysuckle
 honk
 honor
-honorarium
 hood
-hoodlum
 hoodoo
 hoodwink
 hoof
@@ -2155,7 +2131,6 @@ hopper
 hopple
 hopscotch
 horde
-hordeolum
 horehound
 horizon
 horn
@@ -2248,7 +2223,6 @@ hulk
 hull
 hullabaloo
 hullo
-hum
 human
 humanist
 humankind
@@ -2257,7 +2231,6 @@ humblebee
 humbler
 humbles
 humbug
-humdrum
 humectant
 humerus
 hummer
@@ -2307,7 +2280,6 @@ hyades
 hydra
 hydrangea
 hydrant
-hydrargyrum
 hydraulics
 hydride
 hydrocarbon
@@ -2327,28 +2299,23 @@ hyena
 hygienics
 hygienist
 hygrodeik
-hymenium
 hymenomycetes
 hymenopter
 hymenoptera
 hymenopteran
 hymn
 hyoscyamus
-hypanthium
 hyperbaton
 hyperbola
 hyperbole
 hyperborean
-hypericum
 hyperotreta
 hypnotizer
 hypo
 hypoblast
 hypochlorite
 hypochondriac
-hypochondrium
 hypocrite
-hypoderma
 hypodermis
 hypospadias
 hypotenuse
@@ -2443,7 +2410,6 @@ ipecac
 iran
 ire
 iridescent
-iridium
 iris
 irishman
 irk
@@ -2467,7 +2433,6 @@ is
 isabella
 isatis
 ischias
-ischium
 isinglass
 islam
 island
@@ -2543,7 +2508,6 @@ jeerer
 jeers
 jehovah
 jejune
-jejunum
 jell
 jennet
 jerboa
@@ -2600,7 +2564,6 @@ jonah
 jongleur
 jonquil
 jordan
-jorum
 joseph
 joss
 jostle
@@ -2711,7 +2674,6 @@ latter
 lattice
 latticework
 laud
-laudanum
 laudator
 lauder
 laugh
@@ -2808,7 +2770,6 @@ leipoa
 leister
 leisure
 leitmotif
-lemma
 lemniscus
 lemon
 lemonade
@@ -2859,7 +2820,6 @@ lettuce
 letup
 leucadendron
 leucocyte
-leucoma
 levant
 levanter
 levator
@@ -2926,7 +2886,6 @@ like
 likelihood
 lilac
 lilt
-lima
 liman
 limax
 limb
@@ -2960,16 +2919,13 @@ link
 linkman
 linnean
 linnet
-linoleum
 linstock
 lint
 lintel
 lintwhite
-linum
 lionet
 lip
 lipogram
-lipoma
 liquescent
 liqueur
 liquidambar
@@ -2998,7 +2954,6 @@ literature
 lithe
 lither
 lithesome
-lithium
 lithoglyptics
 lithograph
 lithographer
@@ -3025,7 +2980,6 @@ liveryman
 lives
 liza
 lizard
-llama
 llano
 lloyds
 loach
@@ -3220,7 +3174,6 @@ lush
 lust
 luster
 lustre
-lustrum
 lutanist
 lute
 lutenist
@@ -3230,17 +3183,12 @@ lux
 luxe
 luxuriant
 lycanthrope
-lyceum
 lychee
 lychnis
 lycoperdon
 lycopod
-lycopodium
 lye
-lygodium
 lymph
-lymphadenoma
-lymphoma
 lynch
 lynx
 lyra
@@ -3262,7 +3210,6 @@ macrobiotics
 macrocosm
 macron
 macropus
-macrosporangium
 macrospore
 macula
 macule
@@ -3290,9 +3237,7 @@ maggot
 magi
 magilp
 magistrature
-magma
 magnesite
-magnesium
 magnet
 magnetics
 magnetite
@@ -3303,7 +3248,6 @@ magnifico
 magnifier
 magniloquent
 magnitude
-magnum
 magpie
 magyar
 maha
@@ -3381,8 +3325,6 @@ maltha
 maltman
 maltreat
 maltster
-mama
-mamma
 mammalogist
 mammee
 mammilla
@@ -3452,7 +3394,6 @@ mantling
 mantra
 mantrap
 mantua
-manubrium
 manufacture
 manufacturer
 manul
@@ -3509,13 +3450,11 @@ marquee
 marquess
 marquis
 marrow
-marrubium
 mars
 marsala
 marseilles
 marsh
 marshaling
-marsupium
 mart
 martagon
 martinet
@@ -3579,14 +3518,12 @@ maul
 mauling
 maund
 maunder
-mausoleum
 mauve
 maverick
 mavis
 maw
 maxilla
 maxim
-maximum
 maya
 maybe
 mayflower
@@ -3596,7 +3533,6 @@ mayor
 mayoress
 maypole
 maypop
-mazama
 maze
 mazer
 mazurka
@@ -3619,26 +3555,22 @@ meat
 meatus
 mechanics
 mechanist
-meconium
 medalist
 meddle
 meddler
 meddlesome
 meddling
 mediant
-mediastinum
 mediator
 mediatrix
 medics
 mediocre
 mediterranean
-medium
 medlar
 medulla
 medusa
 meek
 meerkat
-meerschaum
 meet
 meeter
 meetinghouse
@@ -3650,25 +3582,21 @@ megalosaur
 megalosaurus
 megapode
 megathere
-megatherium
 megilp
 megohm
 megrim
-melastoma
 melchite
 meleagris
 melena
 melilot
 melissa
 mellow
-melodrama
 melon
 melt
 melter
 member
 memento
 memoir
-memorandum
 menace
 menagerie
 mend
@@ -3681,10 +3609,8 @@ meniscus
 mennonite
 menopause
 menses
-menstruum
 mentha
 mentor
-mentum
 menu
 meow
 mercantile
@@ -3710,7 +3636,6 @@ merry-go-round
 merrymaker
 mesa
 mesdames
-mesembryanthemum
 mesencephalon
 mesh
 mesmerist
@@ -3721,7 +3646,6 @@ mesocolon
 mesoderm
 mesohippus
 meson
-mesothelium
 mesquit
 mesquite
 mess
@@ -3786,7 +3710,6 @@ microfarad
 micron
 micropyle
 microscopist
-microsporangium
 microspore
 microvolt
 midas
@@ -3835,7 +3758,6 @@ milkwort
 mill
 millboard
 milldam
-millennium
 miller
 millerite
 millet
@@ -3872,11 +3794,9 @@ miniature
 miniaturist
 minibus
 minim
-minimum
 minimus
 minister
 ministrant
-minium
 miniver
 mink
 minnow
@@ -3932,7 +3852,6 @@ moderator
 modern
 modernist
 modest
-modicum
 modifier
 modiolus
 modiste
@@ -3969,14 +3888,11 @@ mollah
 molle
 mollusc
 mollusca
-molluscum
 mollusk
 moloch
 molt
 molto
 molybdenite
-molybdenum
-momentum
 momot
 momus
 mona
@@ -4167,7 +4083,6 @@ multiplier
 multipotent
 multitude
 multivalent
-mum
 mumble
 mumbler
 mumbling
@@ -4202,7 +4117,6 @@ musculature
 muse
 muser
 musette
-museum
 mush
 mushroom
 musk
@@ -4231,15 +4145,12 @@ mutterer
 mutton
 muzzle
 mya
-mycelium
 mycologist
 myelencephala
 myelencephalon
 mylodon
 myna
-myocardium
 myogram
-myoma
 myomorpha
 myope
 myosotis
@@ -4257,7 +4168,6 @@ myrtle
 myth
 mythologist
 mytilus
-myxoma
 n
 nabob
 nailer
@@ -4321,7 +4231,6 @@ nursling
 o
 oaf
 oak
-oakum
 oar
 oatcake
 oath
@@ -4404,7 +4313,6 @@ odd
 odds
 ode
 odist
-odium
 odonata
 odor
 ods
@@ -4447,7 +4355,6 @@ olea
 oleander
 oleaster
 olecranon
-olibanum
 oligarch
 oligoclase
 olivenite
@@ -4455,23 +4362,18 @@ oliver
 olla
 olympiad
 omahas
-omasum
 omega
 omelet
-omentum
 omit
-ommatidium
 omnibus
 omnipotent
 omnipresent
 omniscient
-omnium-gatherum
 omphalocele
 omphalos
 on
 onager
 once
-oncidium
 one
 one-horse
 oneidas
@@ -4501,7 +4403,6 @@ operand
 operant
 operator
 opercula
-operculum
 operetta
 ophiophagus
 ophiuchus
@@ -4510,9 +4411,7 @@ ophiuroidea
 ophryon
 ophthalmologist
 opisthotonos
-opium
 opopanax
-opossum
 opponent
 opportune
 opportunist
@@ -4520,7 +4419,6 @@ opposer
 opposite
 oppress
 oppressor
-opprobrium
 oppugn
 optics
 optimist
@@ -4565,7 +4463,6 @@ orient
 orientalist
 orifice
 oriflamme
-origanum
 originator
 oriole
 orison
@@ -4601,18 +4498,13 @@ oscitant
 osier
 osiris
 osmanli
-osmium
 osmund
 oss
 ossicle
-ossiculum
-ostensorium
 osteoblast
 osteoclast
 osteologer
 osteologist
-osteoma
-osteosarcoma
 ostiole
 ostler
 ostracoda
@@ -4642,7 +4534,6 @@ ovipositor
 ovolo
 ovular
 ovule
-ovum
 owe
 owl
 owlet
@@ -4705,12 +4596,10 @@ palinurus
 palisade
 pall
 pall-mall
-palladium
 pallas
 pallbearer
 pallet
 palliasse
-pallium
 pallor
 palm
 palmar
@@ -4735,7 +4624,6 @@ pancreas
 panda
 pandanus
 pandar
-pandemonium
 pander
 pandora
 panduriform
@@ -4745,10 +4633,8 @@ paneling
 pang
 panic-struck
 panicle
-panicum
 pannier
 panopticon
-panorama
 pant
 pantaloon
 pantechnicon
@@ -4767,7 +4653,6 @@ paper
 paperweight
 papilla
 papilliform
-papilloma
 papist
 pappus
 papuan
@@ -4802,7 +4687,6 @@ paramours
 parapet
 paraph
 paraphrase
-parapodium
 paraquet
 parasite
 parboil
@@ -4813,7 +4697,6 @@ parchesi
 pardon
 pardoner
 pare
-parenchyma
 parent
 parenthood
 parer
@@ -5001,7 +4884,6 @@ pegmatite
 pehlevi
 pekan
 pekoe
-pelargonium
 pelecaniformes
 pelf
 pelican
@@ -5021,7 +4903,6 @@ penciling
 pendant
 pendent
 pendragon
-pendulum
 penelope
 peninsula
 peninsular
@@ -5059,7 +4940,6 @@ penthouse
 pentoxide
 penuchle
 penult
-penultima
 penumbra
 peon
 people
@@ -5100,28 +4980,19 @@ perhaps
 peri
 perianth
 pericardiac
-pericardium
 pericarp
 periclase
-peridium
 peridot
 peridotite
 perigee
-perigonium
 peril
 perilla
 perilymph
-perimysium
-perineum
-perineurium
 period
-periosteum
 peripatus
 perisperm
 perissodactyla
 peristyle
-perithecium
-peritoneum
 periwig
 periwinkle
 perjure
@@ -5177,8 +5048,6 @@ petiolule
 petitioner
 petrel
 petrogale
-petrolatum
-petroleum
 petticoat
 pettifog
 pettifogger
@@ -5226,7 +5095,6 @@ phiz
 phlebogram
 phlebotomist
 phlegm
-phleum
 phlogiston
 phlogopite
 phlox
@@ -5253,7 +5121,6 @@ phrenologist
 phyle
 phyllode
 phylloxera
-phylum
 physa
 physeter
 physicist
@@ -5348,7 +5215,6 @@ pinchbeck
 pindar
 pineapple
 pinesap
-pinetum
 pinfold
 pinguicula
 pinite
@@ -5434,7 +5300,6 @@ planchet
 planchette
 planer
 planet
-planetarium
 plangent
 plank
 planner
@@ -5447,7 +5312,6 @@ planula
 plaque
 plash
 plasm
-plasmodium
 plaster
 plasterer
 plasterwork
@@ -5458,7 +5322,6 @@ platanus
 plateau
 plater
 platform
-platinum
 platitude
 platonist
 platoon
@@ -5491,13 +5354,11 @@ plebe
 plebiscite
 plectognath
 plectognathi
-plectrum
 pledge
 pledgee
 pledger
 pleiades
 plenitude
-plenum
 pleonasm
 pleonaste
 pleopod
@@ -5533,7 +5394,6 @@ plowwright
 pluck
 plug
 plugger
-plum
 plumb
 plumbago
 plumber
@@ -5568,11 +5428,8 @@ pocketbook
 pocketknife
 pockmark
 pod
-podetium
 podiceps
-podium
 podocarp
-podophyllum
 poe
 poem
 poet
@@ -5602,7 +5459,6 @@ polecat
 polemicist
 polemics
 polemist
-polemonium
 polenta
 poler
 polestar
@@ -5619,7 +5475,6 @@ pollack
 pollard
 pollex
 polling
-pollinium
 polliwog
 pollock
 pollucite
@@ -5635,7 +5490,6 @@ polygala
 polygamist
 polyglot
 polygon
-polygonum
 polygraph
 polygynist
 polyhedron
@@ -5645,7 +5499,6 @@ polynesians
 polyp
 polypi
 polyplacophora
-polypodium
 polyporus
 polyptoton
 polypus
@@ -5656,7 +5509,6 @@ polyvalent
 polyzoa
 polyzoan
 pomade
-pomatum
 pome
 pomelo
 pomfret
@@ -5732,7 +5584,6 @@ posse
 possess
 possessor
 posset
-possum
 post
 post-mortem
 postcava
@@ -5753,7 +5604,6 @@ posturer
 pot
 potash
 potashes
-potassium
 potato
 potboiler
 potent
@@ -5792,7 +5642,6 @@ prakrit
 pram
 prancer
 prank
-praseodymium
 prater
 pratincole
 prattle
@@ -5838,7 +5687,6 @@ prelude
 premature
 premier
 premiss
-premium
 premolar
 prentice
 prepare
@@ -5875,7 +5723,6 @@ preterite
 pretermit
 pretext
 pretor
-pretorium
 pretzel
 prevail
 prevailing
@@ -5968,7 +5815,6 @@ progenitor
 progne
 prognosticator
 program
-programma
 programme
 progress
 prohibit
@@ -6024,7 +5870,6 @@ proprietor
 proprietress
 props
 prorogue
-proscenium
 proscribe
 prosecute
 prosecutor
@@ -6046,7 +5891,6 @@ protest
 protestant
 protester
 proteus
-prothalamium
 prothorax
 protist
 protista
@@ -6092,11 +5936,9 @@ pruritus
 psalm
 psalmist
 psalter
-psalterium
 pseudocarp
 pseudonym
 pseudopod
-pseudopodium
 pseudoscorpiones
 psoas
 psyche
@@ -6109,7 +5951,6 @@ ptarmigan
 pteridologist
 pteridophyta
 pterosaur
-pterygium
 puberulent
 pubes
 pubescent
@@ -6126,7 +5967,6 @@ puddle
 puddler
 puddling
 pudenda
-pudendum
 pueblo
 puerile
 puff
@@ -6151,7 +5991,6 @@ pulpit
 pulque
 pulsatilla
 pulse
-puma
 pumice
 pummel
 pump
@@ -6160,7 +5999,6 @@ pun
 punch
 puncher
 punctilio
-punctum
 puncture
 pundit
 pung
@@ -6213,9 +6051,7 @@ putrescent
 putter
 puttyroot
 puzzle
-pycnidium
 pycnogonida
-pyjama
 pylon
 pylorus
 pyracanth
@@ -6233,7 +6069,6 @@ pyrus
 pythagorean
 python
 pyx
-pyxidium
 pyxis
 quack
 quadroon
@@ -6570,7 +6405,6 @@ sorceress
 sore
 sorehead
 sorex
-sorghum
 sorgo
 sori
 sorrel
@@ -6678,10 +6512,8 @@ spectacular
 spectator
 specter
 spectre
-spectrum
 specular
 speculator
-speculum
 speech
 speechifier
 speechmaker
@@ -6707,7 +6539,6 @@ spermophile
 spew
 spewer
 sphacelus
-sphagnum
 sphalerite
 sphenodon
 sphere
@@ -6722,7 +6553,6 @@ spicer
 spick
 spicula
 spicule
-spiculum
 spider
 spiderwort
 spigot
@@ -6745,7 +6575,6 @@ spinster
 spiracle
 spirant
 spire
-spirillum
 spirit
 spiritualist
 spirograph
@@ -6790,7 +6619,6 @@ spoonbill
 spoondrift
 spoor
 sporangiophore
-sporangium
 spore
 sporocarp
 sporophore
@@ -6844,7 +6672,6 @@ spurn
 spurner
 spurt
 sputter
-sputum
 spyglass
 squab
 squabble
@@ -6853,7 +6680,6 @@ squad
 squadron
 squall
 squalor
-squama
 squamata
 squamule
 squander
@@ -6896,7 +6722,6 @@ staccato
 stack
 stacte
 staddle
-stadium
 staff
 stag
 stage-struck
@@ -7006,7 +6831,6 @@ stellar
 steller
 stem
 stem-winder
-stemma
 stemmer
 stench
 stencil
@@ -7033,7 +6857,6 @@ sterling
 stern
 sterner
 sternpost
-sternum
 stet
 stevedore
 stew
@@ -7049,7 +6872,6 @@ stiff
 stiffener
 stifle
 stifler
-stigma
 stigmata
 stigmatist
 stile
@@ -7100,7 +6922,6 @@ stokehole
 stoker
 stole
 stolon
-stoma
 stomach
 stomacher
 stomatopod
@@ -7167,7 +6988,6 @@ strata
 stratagem
 strategics
 strategist
-stratum
 stratus
 straw
 strawboard
@@ -7187,7 +7007,6 @@ stretch
 stretcher
 strew
 strewn
-striatum
 strickle
 strict
 stricture
@@ -7210,12 +7029,10 @@ strode
 stroke
 stroll
 stroller
-stroma
 strombus
 strong
 stronghold
 strontianite
-strontium
 strop
 strophanthus
 strophe
@@ -7224,8 +7041,6 @@ struck
 structure
 struggle
 struggler
-strum
-struma
 strumpet
 strung
 strut
@@ -7262,7 +7077,6 @@ style
 stylet
 stylist
 stylite
-stylopodium
 stylus
 styrax
 styx
@@ -7312,7 +7126,6 @@ subsist
 subsoil
 subspecies
 substitute
-substratum
 substructure
 subsume
 subtend
@@ -7327,7 +7140,6 @@ suburban
 subvert
 subverter
 succade
-succedaneum
 succeeder
 success
 successor
@@ -7346,7 +7158,6 @@ sucker
 suckle
 suckling
 sucre
-sudatorium
 sudra
 suds
 sue
@@ -7363,7 +7174,6 @@ suffrutescent
 suffuse
 sufi
 sugar
-sugarplum
 suggest
 suggester
 suicide
@@ -7378,7 +7188,6 @@ sulphide
 sulphur
 sultan
 sultana
-sum
 sumac
 sumach
 sumatran
@@ -7420,7 +7229,6 @@ superabundant
 superb
 supercargo
 supercharge
-supercilium
 superficies
 superhuman
 superincumbent
@@ -7576,11 +7384,9 @@ swordsman
 swordtail
 swore
 sworn
-swum
 swung
 sybarite
 sycamore
-syconium
 sycophant
 syllabub
 syllabus
@@ -7598,12 +7404,10 @@ symphyla
 symploce
 symposiarch
 symposiast
-symposium
 symptom
 synagogue
 syncarp
 syncope
-syncytium
 syndrome
 synecdoche
 synentognathi
@@ -7715,10 +7519,8 @@ tankard
 tanner
 tantalite
 tantalizer
-tantalum
 tantalus
 tantamount
-tantrum
 tap
 tapa
 tape
@@ -7814,14 +7616,12 @@ technicals
 technique
 technologist
 tectonics
-tedium
 tee
 teem
 teens
 teeter
 teeth
 teetotaler
-teetotum
 teg
 tegular
 telamones
@@ -7837,7 +7637,6 @@ teller
 telling
 telltale
 telluride
-tellurium
 telpher
 telugu
 temper
@@ -7880,12 +7679,9 @@ tentaculata
 tenter
 tenth
 tentmaker
-tentorium
 tenure
 tepee
 tequila
-teratoma
-terbium
 terce
 tercel
 tercelet
@@ -7945,7 +7741,6 @@ texture
 th
 thalamus
 thaliacea
-thallium
 thallophyte
 thallus
 thammuz
@@ -7968,7 +7763,6 @@ theme
 themis
 thenar
 thenceforth
-theobroma
 theodolite
 theologist
 theologizer
@@ -8027,7 +7821,6 @@ thong
 thor
 thorax
 thorite
-thorium
 thorn
 thornbill
 thorough
@@ -8078,7 +7871,6 @@ throw
 thrower
 thrown
 throwster
-thrum
 thrush
 thrust
 thruster
@@ -8087,7 +7879,6 @@ thug
 thuggee
 thuja
 thule
-thulium
 thumb
 thumbscrew
 thump
@@ -8184,7 +7975,6 @@ tiro
 tissue
 tit
 titan
-titanium
 titbit
 tithe
 tither
@@ -8244,7 +8034,6 @@ tomb
 tombac
 tomcat
 tome
-tomentum
 tomorrow
 tomtit
 ton
@@ -8423,7 +8212,6 @@ transverse
 trap
 trapes
 trapeze
-trapezium
 trapezohedron
 trapper
 trappings
@@ -8495,7 +8283,6 @@ trick
 tricker
 trickle
 trickster
-triclinium
 tricolor
 tricot
 tricycle
@@ -8506,7 +8293,6 @@ trier
 trifle
 trifler
 trifling
-trifolium
 trig
 trigger
 triglyceride
@@ -8514,7 +8300,6 @@ trigon
 trigram
 trill
 trilling
-trillium
 trilobite
 trim
 trimester
@@ -8540,14 +8325,12 @@ trisect
 trismus
 trite
 tritheist
-triticum
 triton
 triumph
 triumvir
 triune
 trivalent
 trivet
-trivium
 troat
 trochanter
 troche
@@ -8734,7 +8517,6 @@ tyler
 tympan
 tympanist
 tympanites
-tympanum
 tyne
 type
 typesetter
@@ -8757,7 +8539,6 @@ ultra
 umpire
 ur
 uraninite
-uranium
 uranus
 urban
 urceole
@@ -8773,7 +8554,6 @@ urocele
 urochord
 urochorda
 urodele
-uropygium
 ursus
 urtica
 urus
@@ -9301,7 +9081,6 @@ wye
 wys
 wyvern
 xenotime
-xeroderma
 xiphias
 xiphosura
 xylem
