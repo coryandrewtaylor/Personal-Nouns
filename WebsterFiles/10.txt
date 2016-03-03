@@ -33395,7 +33395,7 @@ The larger loadstone that, the nearer this.
 <hw>Mag`ne*ti"cian</hw> <tt>(?)</tt>, <tt>n.</tt> <def>One versed in the science of magnetism; a magnetist.</def>
 
 </div>
-<div><h1>Maneticness</h1>
+<div><h1>Magneticness</h1>
 <Xpage=882>
 
 <hw>Ma*net"ic*ness</hw>, <tt>n.</tt><def>Magneticalness.</def> <mark>[Obs.]</mark>
