@@ -2,12 +2,10 @@
 """
 Created on Thu Sep  3 12:54:59 2015
 
-@author: cory
+@author: Cory Taylor
 """
 
-import pandas as pd
-
-with open("../Data/cleaned_nouns.txt", "r") as nouns:
+with open('../Data/cleaned_nouns.txt', 'r') as nouns:
     suffixes = []    
     full_words = nouns.readlines()
     for word in full_words:
